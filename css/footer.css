@@ -1,0 +1,13 @@
+.footer {
+  background: var(--azul-dunder);
+  color: white;
+  text-align: center;
+  padding: 30px 20px;
+}
+.footer p {
+  margin-bottom: 10px;
+}
+.footer a {
+  color: white;
+  font-weight: bold;
+}
